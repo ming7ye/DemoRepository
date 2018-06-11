@@ -1,2 +1,2 @@
 second.java
-version dev1
+version dev1 new
